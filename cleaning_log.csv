@@ -1,0 +1,239 @@
+﻿id,action,reason
+tr-00005,fix,set needs_human to true based on P1 or repeat contact
+tr-00013,fix,corrected priority from P1 to P3
+tr-00018,fix,corrected priority from P1 to P3
+tr-00020,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 02/09/2026 to 2026-09-02; corrected priority from None to P3
+tr-00023,fix,corrected priority from P1 to P3
+tr-00040,fix,set needs_human to true based on P1 or repeat contact
+tr-00044,fix,set needs_human to true based on P1 or repeat contact
+tr-00045,fix,corrected priority from P3 to P1
+tr-00049,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00058,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 26/08/2026 to 2026-08-26; corrected priority from None to P3
+tr-00059,fix,corrected priority from P1 to P3
+tr-00060,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00071,fix,normalized transaction ID NP-9718716109 to NP9718716109
+tr-00072,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00073,fix,"corrected priority from P1 to P3; Corrected amount: ticket says ₹168,787.25, which is 16,878,725 paise; priority is P1 because amount is at least ₹50,000."
+tr-00077,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 29/07/2026 to 2026-07-29; corrected priority from None to P2
+tr-00095,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00114,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00120,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00123,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 21/07/2026 to 2026-07-21; corrected priority from None to P1
+tr-00125,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00129,fix,corrected priority from P3 to P2
+tr-00140,fix,set needs_human to true based on P1 or repeat contact
+tr-00146,fix,corrected priority from P1 to P3
+tr-00147,fix,normalized transaction ID np9891267518 to NP9891267518
+tr-00151,fix,normalized transaction ID NP-2339259875 to NP2339259875
+tr-00153,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 04/09/2026 to 2026-09-04; corrected priority from None to P3
+tr-00154,fix,corrected priority from P3 to P2
+tr-00158,fix,set needs_human to true based on P1 or repeat contact
+tr-00160,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 08/08/2026 to 2026-08-08; corrected priority from None to P1
+tr-00172,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00173,fix,set needs_human to true based on P1 or repeat contact
+tr-00178,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00184,fix,corrected priority from P3 to P1
+tr-00187,fix,"corrected priority from P1 to P3; Corrected amount: ticket says 2.2 lakh (₹220,000), which is 22,000,000 paise; priority is P1 because amount is at least ₹50,000."
+tr-00192,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P2
+tr-00212,fix,corrected priority from P3 to P1
+tr-00219,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00220,fix,corrected priority from P3 to P2
+tr-00222,fix,set needs_human to true based on P1 or repeat contact
+tr-00223,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00225,fix,corrected priority from P1 to P3
+tr-00249,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 23/08/2026 to 2026-08-23; corrected priority from None to P2
+tr-00258,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00263,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 11/07/2026 to 2026-07-11; corrected priority from None to P3
+tr-00267,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00285,fix,set needs_human to true based on P1 or repeat contact
+tr-00294,fix,corrected priority from P3 to P2
+tr-00299,fix,set needs_human to true based on P1 or repeat contact
+tr-00305,fix,set needs_human to true based on P1 or repeat contact
+tr-00306,fix,corrected priority from P1 to P3
+tr-00309,fix,corrected priority from P1 to P3
+tr-00311,fix,set needs_human to true based on P1 or repeat contact
+tr-00312,fix,corrected priority from P1 to P3
+tr-00320,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00340,fix,set needs_human to true based on P1 or repeat contact
+tr-00346,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P2
+tr-00347,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 07/08/2026 to 2026-08-07; corrected priority from None to P3
+tr-00354,fix,set needs_human to true based on P1 or repeat contact
+tr-00355,fix,corrected priority from P3 to P2
+tr-00357,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00361,fix,set needs_human to true based on P1 or repeat contact
+tr-00364,fix,set needs_human to true based on P1 or repeat contact
+tr-00365,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00370,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 10/09/2026 to 2026-09-10; corrected priority from None to P1
+tr-00380,fix,corrected priority from P1 to P3
+tr-00382,fix,corrected priority from P2 to P3
+tr-00385,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00391,fix,normalized transaction ID NP 9255627510 to NP9255627510
+tr-00413,fix,corrected priority from P1 to P3; set needs_human to true based on P1 or repeat contact
+tr-00420,fix,normalized transaction ID np 81633 47892 to NP8163347892
+tr-00424,fix,corrected priority from P3 to P1
+tr-00427,fix,corrected priority from P3 to P1
+tr-00428,fix,set needs_human to true based on P1 or repeat contact
+tr-00452,fix,corrected priority from P1 to P3
+tr-00457,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00460,fix,normalized transaction ID NP 6949410784 to NP6949410784
+tr-00461,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P2
+tr-00467,fix,set needs_human to true based on P1 or repeat contact
+tr-00470,fix,normalized transaction ID np 11245 46709 to NP1124546709
+tr-00474,fix,set needs_human to true based on P1 or repeat contact
+tr-00475,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P2; set needs_human to true based on P1 or repeat contact
+tr-00478,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00481,fix,set needs_human to true based on P1 or repeat contact
+tr-00485,fix,corrected priority from P1 to P3
+tr-00497,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00503,fix,corrected priority from P1 to P3
+tr-00505,fix,corrected priority from P1 to P3
+tr-00508,fix,corrected priority from P1 to P3
+tr-00516,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P2
+tr-00523,fix,corrected priority from P1 to P3
+tr-00533,fix,corrected priority from P1 to P3
+tr-00556,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 13/07/2026 to 2026-07-13; corrected priority from None to P1
+tr-00558,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00567,fix,corrected priority from P3 to P2
+tr-00570,fix,normalized transaction ID np 87267 97611 to NP8726797611
+tr-00574,fix,set needs_human to true based on P1 or repeat contact
+tr-00576,fix,set needs_human to true based on P1 or repeat contact
+tr-00577,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 06/08/2026 to 2026-08-06; corrected priority from None to P3
+tr-00585,fix,set needs_human to true based on P1 or repeat contact
+tr-00589,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00595,fix,normalized transaction ID np3247474643 to NP3247474643
+tr-00602,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 29/06/2026 to 2026-06-29; corrected priority from None to P3
+tr-00605,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00606,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P2
+tr-00610,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00612,fix,set needs_human to true based on P1 or repeat contact
+tr-00621,fix,set needs_human to true based on P1 or repeat contact
+tr-00628,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 13/06/2026 to 2026-06-13; corrected priority from None to P1
+tr-00638,fix,corrected priority from P3 to P1
+tr-00648,fix,corrected priority from P3 to P2
+tr-00649,fix,normalized transaction ID NP-8919677483 to NP8919677483
+tr-00656,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 20/06/2026 to 2026-06-20; corrected priority from None to P3
+tr-00662,fix,set needs_human to true based on P1 or repeat contact
+tr-00670,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 20/08/2026 to 2026-08-20; corrected priority from None to P2
+tr-00673,fix,set needs_human to true based on P1 or repeat contact
+tr-00674,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00677,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 14/08/2026 to 2026-08-14; corrected priority from None to P1
+tr-00685,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00689,fix,corrected priority from P1 to P3
+tr-00704,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 03/06/2026 to 2026-06-03; corrected priority from None to P1
+tr-00706,fix,corrected priority from P3 to P2
+tr-00707,fix,corrected priority from P3 to P2
+tr-00717,fix,corrected priority from P1 to P3
+tr-00727,fix,corrected priority from P2 to P3
+tr-00735,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00744,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P2
+tr-00745,fix,corrected priority from P1 to P3
+tr-00746,fix,corrected priority from P3 to P2
+tr-00757,fix,corrected priority from P1 to P3
+tr-00765,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00767,fix,set needs_human to true based on P1 or repeat contact
+tr-00770,fix,set needs_human to true based on P1 or repeat contact
+tr-00771,fix,normalized transaction ID np9038808761 to NP9038808761
+tr-00778,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00782,fix,corrected priority from P1 to P3
+tr-00791,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 31/08/2026 to 2026-08-31; corrected priority from None to P3
+tr-00797,fix,set needs_human to true based on P1 or repeat contact
+tr-00801,fix,set needs_human to true based on P1 or repeat contact
+tr-00802,fix,corrected priority from P1 to P3
+tr-00809,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00820,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 31/05/2026 to 2026-05-31; corrected priority from None to P3
+tr-00824,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00832,fix,set needs_human to true based on P1 or repeat contact
+tr-00836,fix,set needs_human to true based on P1 or repeat contact
+tr-00838,fix,normalized transaction ID NP 6186175115 to NP6186175115
+tr-00839,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 17/09/2026 to 2026-09-17; corrected priority from None to P2
+tr-00846,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00852,fix,corrected priority from P3 to P1
+tr-00879,fix,corrected priority from P1 to P3
+tr-00882,fix,set needs_human to true based on P1 or repeat contact
+tr-00888,fix,normalized transaction ID np7786684387 to NP7786684387
+tr-00890,fix,corrected priority from P3 to P1
+tr-00897,fix,set needs_human to true based on P1 or repeat contact
+tr-00899,fix,normalized transaction ID NP-1325500121 to NP1325500121
+tr-00908,fix,normalized transaction ID np 45856 96868 to NP4585696868
+tr-00922,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00932,fix,corrected priority from P3 to P2
+tr-00933,fix,corrected priority from P1 to P3
+tr-00956,fix,set needs_human to true based on P1 or repeat contact
+tr-00958,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00960,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00965,fix,set needs_human to true based on P1 or repeat contact
+tr-00967,fix,corrected priority from P1 to P3
+tr-00975,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00978,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00979,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00980,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-00985,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 02/09/2026 to 2026-09-02; corrected priority from None to P1
+tr-00987,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01006,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01012,fix,normalized transaction ID np 78549 05014 to NP7854905014
+tr-01017,fix,corrected priority from P3 to P1
+tr-01019,fix,corrected priority from P3 to P1
+tr-01023,fix,corrected priority from P3 to P1
+tr-01025,fix,set needs_human to true based on P1 or repeat contact
+tr-01028,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01040,fix,set needs_human to true based on P1 or repeat contact
+tr-01046,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 25/06/2026 to 2026-06-25; corrected priority from None to P2
+tr-01048,fix,corrected priority from P1 to P3
+tr-01057,fix,set needs_human to true based on P1 or repeat contact
+tr-01070,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-01083,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P2
+tr-01086,fix,corrected priority from P3 to P1
+tr-01087,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-01089,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01109,fix,corrected priority from P3 to P2
+tr-01115,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P2
+tr-01121,fix,set needs_human to true based on P1 or repeat contact
+tr-01127,fix,set needs_human to true based on P1 or repeat contact
+tr-01128,fix,set needs_human to true based on P1 or repeat contact
+tr-01131,fix,corrected priority from P3 to P2
+tr-01132,fix,set needs_human to true based on P1 or repeat contact
+tr-01133,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 25/07/2026 to 2026-07-25; corrected priority from None to P3
+tr-01136,fix,normalized transaction ID NP 5804974985 to NP5804974985
+tr-01139,fix,set needs_human to true based on P1 or repeat contact
+tr-01143,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 12/09/2026 to 2026-09-12; corrected priority from None to P3; set needs_human to true based on P1 or repeat contact
+tr-01146,fix,corrected priority from P1 to P3
+tr-01151,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P1
+tr-01158,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 30/06/2026 to 2026-06-30; corrected priority from None to P3; set needs_human to true based on P1 or repeat contact
+tr-01178,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 09/08/2026 to 2026-08-09; corrected priority from None to P3
+tr-01187,fix,set needs_human to true based on P1 or repeat contact
+tr-01188,fix,normalized transaction ID np0530288495 to NP0530288495
+tr-01189,fix,set needs_human to true based on P1 or repeat contact
+tr-01194,fix,set needs_human to true based on P1 or repeat contact
+tr-01199,drop,Assistant label is truncated or invalid JSON; safe label cannot be recovered.
+tr-01202,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01204,fix,set needs_human to true based on P1 or repeat contact
+tr-01222,fix,corrected priority from P1 to P3
+tr-01229,fix,set needs_human to true based on P1 or repeat contact
+tr-01238,fix,normalized transaction ID NP-7739480420 to NP7739480420
+tr-01274,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 23/07/2026 to 2026-07-23; corrected priority from None to P1
+tr-01286,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P2
+tr-01300,fix,set needs_human to true based on P1 or repeat contact
+tr-01301,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01305,fix,corrected priority from P3 to P2
+tr-01316,fix,set needs_human to true based on P1 or repeat contact
+tr-01319,fix,corrected priority from P3 to P1
+tr-01326,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01331,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01343,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 05/07/2026 to 2026-07-05; corrected priority from None to P3
+tr-01351,fix,set needs_human to true based on P1 or repeat contact
+tr-01353,fix,set needs_human to true based on P1 or repeat contact
+tr-01359,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01363,fix,normalized transaction ID np 25586 43472 to NP2558643472
+tr-01366,fix,replaced corrupted 'prio' with schema-derived 'priority'; normalized transaction date 10/09/2026 to 2026-09-10; corrected priority from None to P1
+tr-01370,fix,corrected priority from P3 to P1
+tr-01375,fix,corrected priority from P2 to P3
+tr-01383,fix,set needs_human to true based on P1 or repeat contact
+tr-01386,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01392,fix,set needs_human to true based on P1 or repeat contact
+tr-01403,fix,corrected priority from P3 to P1
+tr-01407,fix,corrected priority from P1 to P3
+tr-01408,fix,set needs_human to true based on P1 or repeat contact
+tr-01413,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-01441,fix,replaced corrupted 'prio' with schema-derived 'priority'; corrected priority from None to P3
+tr-00790,drop,Ticket contains only placeholder text ('asdf asdf'); label cannot be verified.
+tr-00794,drop,Ticket contains only placeholder text ('test test 123'); label cannot be verified.
